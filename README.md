@@ -51,7 +51,7 @@ The Library Management System is a Spring Boot application designed to facilitat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/raunakpalewar/library_system.git
    ```
 
 2. Navigate to the project directory:
